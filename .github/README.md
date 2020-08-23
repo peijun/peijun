@@ -1,5 +1,6 @@
 # peijun
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peijun)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=peijun&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=True&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peijun&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 ## core commit project
 
